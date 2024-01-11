@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm game client enginner with Unity.
 
 ### 🏃‍♂️ Profile
-Student Leader of [CirKit](https://twitter.com/CirKit_CO) 🎓 / Founder of [Prashalt](https://twitter.com/PrashaltGame) 🎮 / [Unity Associate Programemr](https://www.credly.com/badges/fc4028af-74a0-4035-8144-a0f62485eb86/public_url) ⌨️
+Student Leader of [CirKit](https://twitter.com/CirKit_CO) 🎓 / Founder of [Prashalt](https://twitter.com/PrashaltGame) 🎮 / [Unity Associate Programmer](https://www.credly.com/badges/fc4028af-74a0-4035-8144-a0f62485eb86/public_url) ⌨️
 
 ### 🔭 Works
 #### ApexStelth 🥷🏾
