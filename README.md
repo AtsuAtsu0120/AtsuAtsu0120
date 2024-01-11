@@ -8,6 +8,7 @@ Student Leader of [CirKit](https://twitter.com/CirKit_CO) 🎓 / Founder of [Pra
 My first 3D game. Its Concept is Apex Legends x HITMAN.
 
 [Repository](https://github.com/AtsuAtsu0120/ApexStelth)
+[Article(JPN)](https://qiita.com/AtsuAtsu0120/items/e7e51b9c1925d5101e0d)
 
 #### ConversationGraph 💬
 This is my first custom editor for Unity.
@@ -16,6 +17,7 @@ This is a node-based tool that helps the implementation of conversations.
 It is using GraphView, SourceGenerator and more...
 
 [Repository](https://github.com/PrashaltGames/Unity-ConversationGraph)
+[Introductory Article(JPN)](https://qiita.com/AtsuAtsu0120/items/58bd717d3acbec631c87)
 <!--
 **AtsuAtsu0120/AtsuAtsu0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
