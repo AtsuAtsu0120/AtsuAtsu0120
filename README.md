@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm game client enginner with Unity.
 
 ### Profile
-[CirKit](https://twitter.com/CirKit_CO) Student Leader 🎓 / Founder of [Prashalt](https://twitter.com/PrashaltGame) 🎮 / Unity Associate Programemr ⌨️
+Student Leader of [CirKit](https://twitter.com/CirKit_CO) 🎓 / Founder of [Prashalt](https://twitter.com/PrashaltGame) 🎮 / Unity Associate Programemr ⌨️
 
 ### 🔭 Works
 #### ApexStelth 🥷🏾
