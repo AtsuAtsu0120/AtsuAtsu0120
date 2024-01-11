@@ -1,15 +1,15 @@
 ### Hi there 👋 I'm game client enginner with Unity.
 
 ### Profile
-[CirKit](https://twitter.com/CirKit_CO) Student Leader / Founder of Prashalt / Unity Associate Programemr
+[CirKit](https://twitter.com/CirKit_CO) Student Leader 🎓 / Founder of Prashalt 🎮 / Unity Associate Programemr ⌨️
 
 ### 🔭 Works
-#### ApexStelth
+#### ApexStelth 🥷🏾
 My first 3D game. Its Concept is Apex Legends x HITMAN.
 
 [Repository](https://github.com/AtsuAtsu0120/ApexStelth)
 
-#### ConversationGraph
+#### ConversationGraph 💬
 This is my first custom editor.
 
 It is using GraphView, SourceGenerator and more...
