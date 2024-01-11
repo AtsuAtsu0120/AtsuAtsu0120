@@ -10,7 +10,8 @@ My first 3D game. Its Concept is Apex Legends x HITMAN.
 [Repository](https://github.com/AtsuAtsu0120/ApexStelth)
 
 #### ConversationGraph 💬
-This is my first custom editor.
+This is my first custom editor for Unity.
+This is a node-based tool that helps the implementation of conversations.
 
 It is using GraphView, SourceGenerator and more...
 
