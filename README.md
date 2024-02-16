@@ -20,6 +20,16 @@ It is using GraphView, SourceGenerator and more...
 [Repository](https://github.com/PrashaltGames/Unity-ConversationGraph)
 
 [Introductory Article - (JPN)](https://qiita.com/AtsuAtsu0120/items/58bd717d3acbec631c87)
+
+### internships
+#### CA Tech Accel
+The 2.5 months internship by CyberAgent, Inc.
+Our team, game-B recived THE BEST TEAM AWARD. 
+
+[Repository](https://github.com/AtsuAtsu0120/AtsuAtsu0120-Tech-Accel_2023-2024)
+
+[Article - (JPN)](https://qiita.com/AtsuAtsu0120/items/534fefc8fd0b5b3c70c1)
+
 <!--
 **AtsuAtsu0120/AtsuAtsu0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
