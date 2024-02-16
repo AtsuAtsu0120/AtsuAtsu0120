@@ -21,8 +21,8 @@ It is using GraphView, SourceGenerator and more...
 
 [Introductory Article - (JPN)](https://qiita.com/AtsuAtsu0120/items/58bd717d3acbec631c87)
 
-### internships
-#### CA Tech Accel
+### 🏢Internships
+#### CA Tech Accel 👟
 The 2.5 months internship by CyberAgent, Inc.
 Our team, game-B recived THE BEST TEAM AWARD. 
 
