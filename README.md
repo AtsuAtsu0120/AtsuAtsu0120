@@ -24,7 +24,7 @@ It is using GraphView, SourceGenerator and more...
 ### 🏢Internships
 #### CA Tech Accel 👟
 The 2.5 months internship by CyberAgent, Inc.
-Our team, game-B recived THE BEST TEAM AWARD. 
+Our team; game-B recived THE BEST TEAM AWARD. 
 
 [Repository](https://github.com/AtsuAtsu0120/AtsuAtsu0120-Tech-Accel_2023-2024)
 
