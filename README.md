@@ -19,7 +19,7 @@ It is using GraphView, App UI and more...
 
 [Repository](https://github.com/PrashaltGames/Unity-ConversationGraph)
 
-[Introductory Article - (JPN)](https://qiita.com/AtsuAtsu0120/items/58bd717d3acbec631c87](https://qiita.com/AtsuAtsu0120/items/93b05d200fb1481d0bbc)
+[Article - (JPN)](https://qiita.com/AtsuAtsu0120/items/93b05d200fb1481d0bbc)
 
 ### 🏢Internships
 #### CA Tech Accel 👟
