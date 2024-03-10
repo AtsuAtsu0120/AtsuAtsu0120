@@ -13,13 +13,13 @@ My first 3D game. Its Concept is Apex Legends x HITMAN.
 
 #### ConversationGraph 💬
 This is my first custom editor for Unity.
-This is a node-based tool that helps the implementation of conversations.
+The Node Based Script Engine.
 
-It is using GraphView, SourceGenerator and more...
+It is using GraphView, App UI and more...
 
 [Repository](https://github.com/PrashaltGames/Unity-ConversationGraph)
 
-[Introductory Article - (JPN)](https://qiita.com/AtsuAtsu0120/items/58bd717d3acbec631c87)
+[Introductory Article - (JPN)](https://qiita.com/AtsuAtsu0120/items/58bd717d3acbec631c87](https://qiita.com/AtsuAtsu0120/items/93b05d200fb1481d0bbc)
 
 ### 🏢Internships
 #### CA Tech Accel 👟
