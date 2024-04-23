@@ -11,7 +11,7 @@ My first 3D game. Its Concept is Apex Legends x HITMAN.
 
 [Article - (JPN)](https://qiita.com/AtsuAtsu0120/items/e7e51b9c1925d5101e0d)
 
-#### Super Othello
+#### Super Othello ⚫⚪
 Logic and Graphics practice. Use MessagePipe, R3, and More.
 
 [Repository](https://github.com/AtsuAtsu0120/SuperOthello)
