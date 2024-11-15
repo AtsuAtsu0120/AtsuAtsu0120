@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm game client engineer with Unity in Kanazawa Institude of Technology, Japan.
 
 ### 🏃‍♂️ Profile
-Student Leader of [CirKit](https://twitter.com/CirKit_CO) 🎓 / Founder of [Prashalt](https://twitter.com/PrashaltGame) 🎮 / [Unity Associate Programmer](https://www.credly.com/badges/fc4028af-74a0-4035-8144-a0f62485eb86/public_url) ⌨️
+Student Leader of [CirKit](https://twitter.com/CirKit_CO) 🎓 / Founder of [Prashalt](https://twitter.com/PrashaltGame) 🎮 / [Unity Associate Programmer](https://www.credly.com/badges/fc4028af-74a0-4035-8144-a0f62485eb86/public_url) ⌨️ / Future Unity Engineer for CyberAgent, Inc.
 
 ### 🔭 Works
 #### ApexStelth 🥷🏾
@@ -34,8 +34,6 @@ Our team; game-B recived THE BEST TEAM AWARD.
 [Repository](https://github.com/AtsuAtsu0120/AtsuAtsu0120-Tech-Accel_2023-2024)
 
 [Article - (JPN)](https://qiita.com/AtsuAtsu0120/items/534fefc8fd0b5b3c70c1)
-
-#### ????
 
 <!--
 **AtsuAtsu0120/AtsuAtsu0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
